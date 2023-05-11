@@ -1,0 +1,74 @@
+
+
+th{
+    font-size: 20px;
+}
+
+#menu{
+    color: white;
+    font-family: Helvetica, sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    font-weight: 800;
+    padding-left: 500px;
+    padding-right: 500px;
+    background-color: black;
+    padding-bottom: 30px;
+    padding-top: 30px;
+
+}
+#menu a:hover{
+    color:white;
+
+}
+p2{
+    color: white;
+    background-color:deepskyblue;
+    
+}
+
+p3{
+    font-size:15px;
+}
+
+h2{
+    padding-left: 30px;
+    font-size: 30px;
+}
+
+p3{
+    padding-left: 30px;
+    font-family: Helvetica, sans-serif;
+}
+
+
+p4{
+    padding-left: 30px;
+    font-size: 20px;
+   font-family: Helvetica, sans-serif;
+    
+}
+
+p2{
+    font-family: Helvetica, sans-serif;
+}
+
+
+td{
+    font-family: Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
